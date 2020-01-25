@@ -1,0 +1,2 @@
+# exec >> /home/pi/Desktop/error.log 2>&1
+# sudo python3 /home/pi/Desktop/ChickenCoopDoor/door.py & >> /home/pi/Desktop/log.txt 2>&1

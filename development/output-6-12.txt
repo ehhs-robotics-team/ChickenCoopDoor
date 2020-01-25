@@ -1,0 +1,19 @@
+Setting up the timezone and location for Wardensville, WV...
+Determining door position...
+Failed to determine door position...
+Door Closing
+Door Closed at: 2018-06-11 18:46:21
+Starting door open based on astral
+Door Opening
+Door Opened at: 2018-06-11 18:46:23
+next close time is: 06-12-2018 01:12:16
+0
+True
+It's dark out there
+Door Closing
+Door failed to Close at 2018-06-11 21:16:27
+Something went wrong with sending this email...
+Email: 'Chicken coop door #1 didn't close correctly. Please check it.'
+Oops, that was yesterday's opening time
+next open time is: 06-13-2018 09:15:47
+

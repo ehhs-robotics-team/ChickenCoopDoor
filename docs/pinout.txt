@@ -1,0 +1,6 @@
+## Even numbered GPIO pins are outputs, odd pins are sensors.
+MOTOR_POSITIVE= 32
+MOTOR_NEGATIVE= 36
+SWITCH_TOP    = 31
+SWITCH_BOTTOM = 33
+PHOTORESISTOR = 29

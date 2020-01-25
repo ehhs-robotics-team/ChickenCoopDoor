@@ -1,0 +1,3 @@
+Write Closing/Opening times to file
+Cleanup code
+Add email when program closes and/or when it opens/closes

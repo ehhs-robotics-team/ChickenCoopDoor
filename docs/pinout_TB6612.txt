@@ -1,0 +1,15 @@
+PMWA - 3.3v
+AIN2 - GPIO 36
+AIN1 - GPIO 32
+STBY - 10k resistor to 3.3v
+BIN1 - (Empty)
+BIN2 - (Empty)
+PMWB - 3.3v
+GND  - Ground
+
+VM+  - Motor voltage (3.3v-12v)
+VM-  - Ground
+
+MOTORA - Linear Actuator
+GND  - (Empty)
+MOTORB - (Empty)
