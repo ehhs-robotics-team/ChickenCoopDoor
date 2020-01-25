@@ -6,7 +6,7 @@
 # Or try commenting out one of the lines after running "sudo crontab -e"
 #cd /
 #cd /home/pi/Desktop/ChickenCoopDoor
-/usr/bin/python3 /home/pi/Desktop/ChickenCoopDoor/simple_door3.py > error.log &
+/usr/bin/python3 /home/pi/Desktop/ChickenCoopDoor/run.py > error.log &
 #cd /
 
 
